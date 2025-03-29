@@ -294,23 +294,21 @@
 <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Melhorei muito a comunicação, principalmente por fazer parte de um grupo grande, foi necessário aprender a lidar com diferentes tipos de ideias e formas de trabalhar</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Foi necessário atuar com colaboração ativa no projeto, respeitando prazos e contribuindo para a melhoria contínua.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Primeira vez enfrentando desafios sem saber como resolver e foi preciso pensar e estudar muito para propor soluções eficientes e escaláveis.</td> </tr> <tr> <td align="center"><b>Adaptabilidade</b></td> <td>Por ter pouco conhecimento em programação, precisei me adaptar muito a mudanças, começamos fazendo o projeto em tkinter o que atrapalhou muito o desenvolvimento, e após analisar junto ao grupo, modificamos e conseguimos chegar em um resultado bom.</td> </tr></table>
     
 <h4>2ª API - 1º semestre 2023</h4> 
-<p align="justify">O produto em parceria com a 2RP é um sistema que realiza o controle de horas excedentes de colaboradores da empresa. A empresa parceira é conhecida por disponibilizar soluções para análise de informações em tempo real para tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. As soluções inovadoras e customizadas a diferenciam no mercado, assim como os serviços, permitem o crescimento de negócio e de seus resultados.</p>
+<p align="justify">O produto em parceria com a 2RP é um sistema que realiza o controle de horas excedentes de colaboradores da empresa.Anteriormente, a empresa enfrentava desafios na gestão de horas, dependendo de várias planilhas, o que limitava a disponibilidade, flexibilidade e controle necessários. Em resposta, desenvolvemos uma aplicação que centraliza o controle de horas excedentes, distinguindo entre horas extras e sobreavisos. Essa aplicação também oferece recursos de aprovação ou reprovação das horas pelo gestor da equipe e pelo departamento de Recursos Humanos.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/47537933-29eb-4be1-9125-8afe2555c88a" width="70%"></p>
 
-<p align="justify">Anteriormente, a empresa enfrentava desafios na gestão de horas, dependendo de várias planilhas, o que limitava a disponibilidade, flexibilidade e controle necessários. Em resposta, desenvolvemos uma aplicação que centraliza o controle de horas excedentes, distinguindo entre horas extras e sobreavisos. Essa aplicação também oferece recursos de aprovação ou reprovação das horas pelo gestor da equipe e pelo departamento de Recursos Humanos. Além disso, inclui painéis de controle para os colaboradores visualizarem suas horas aprovadas ou reprovadas, enquanto gestores e RH podem monitorar as pendências de aprovação de seus respectivos usuários. </p>
     
 [GIT](https://github.com/oJavaLi/doisrponto?tab=readme-ov-file)
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
-<ul>
-    <li><strong>Figma:</strong> Plataforma de design de interface do usuário.</li>
-    <li><strong>Java Spring:</strong> Framework de desenvolvimento Java com gama de recursos para desenvolver aplicativos robustos e escaláveis.</li>
-    <li><strong>Git:</strong> Sistema de controle de versão distribuído.</li>
-    <li><strong>Slack:</strong> Plataforma de comunicação empresarial.</li>
-    <li><strong>PostgreSQL:</strong> Sistema de gerenciamento de banco de dados relacional de código aberto para armazenar dados cadastrados.</li>
-</ul>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <b>Contribuições Pessoais</summary></b>
 <br>
@@ -422,78 +420,10 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 
 </details>
 
-<br>
-  <summary><b>Hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Java:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Java Spring Framework:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Banco de Dados Relacionais, PostgreSQL:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Git:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>RESTful APIs:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>HTML/CSS/JavaScript:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Diagrama DER:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-  </table>
-
-
-<summary><b>Soft skills</b></summary>
-<br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Comunicação Efetiva:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Trabalho em Equipe:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resolução de Problemas:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Adaptabilidade:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Atenção aos Detalhes:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Gestão do Tempo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Aprendizado Contínuo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resiliência:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-  </table>
-
+<h2>Hard Skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Java</b></td> <td>Desenvolvimento de aplicações utilizando Java para backend.</td> </tr> <tr> <td align="center"><b>Java Spring Framework</b></td> <td>Criação de APIs RESTful, gerenciamento de dependências e injeção de dependências com Spring Boot.</td> </tr> <tr> <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td> <td>Modelagem, consultas SQL básicas.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Controle de versão, colaboração em equipe e uso de repositórios remotos.</td> </tr> <tr> <td align="center"><b>RESTful APIs</b></td> <td>Desenvolvimento de serviços web seguindo boas práticas de arquitetura REST.</td> </tr> <tr> <td align="center"><b>HTML/CSS/JavaScript</b></td> <td>Criação de interfaces web responsivas e interativas.</td> </tr> <tr> <td align="center"><b>Diagrama DER</b></td> <td>Modelagem de banco de dados e relacionamento entre entidades.</td> </tr> </table>
+<h2>Soft Skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Capacidade de transmitir ideias de forma clara e objetiva.</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração ativa em projetos e respeito às opiniões dos colegas.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Habilidade para identificar desafios e propor soluções eficazes.</td> </tr> <tr> <td align="center"><b>Adaptabilidade</b></td> <td>Facilidade para aprender novas tecnologias e lidar com mudanças.</td> </tr> <tr> <td align="center"><b>Atenção aos Detalhes</b></td> <td>Garantia de qualidade e precisão em código e documentação.</td> </tr> <tr> <td align="center"><b>Gestão do Tempo</b></td> <td>Planejamento eficiente para cumprir prazos e aumentar produtividade.</td> </tr> <tr> <td align="center"><b>Aprendizado Contínuo</b></td> <td>Busca constante por atualização e aprimoramento profissional.</td> </tr> <tr> <td align="center"><b>Resiliência</b></td> <td>Capacidade de lidar com desafios e persistir até encontrar uma solução.</td> </tr> </table>
 
 <h4>Em 2023-2</h4> 
 <p align="justify">O produto 2Rponto é um sistema que realiza o controle de horas excedentes de colaboradores da empresa 2RP Net. A empresa parceira é conhecida por disponibilizar soluções para análise de informações em tempo real para tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. As soluções inovadoras e customizadas a diferenciam no mercado, assim como os serviços, permitem o crescimento de negócio e de seus resultados.</p>
