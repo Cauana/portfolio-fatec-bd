@@ -9,24 +9,17 @@
 
 <p align="center"><img src="https://github.com/Cauana/bertoti/assets/77700346/fa566986-fa26-4d55-9d05-57cb6117387c" width="30%"></p>
 
-<p align="justify">Bacharel em Administração Pública pela Universidade Estadual Paulista (UNESP) e regularmente matriculada no 4º semestre do curso tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
+<p align="justify">Bacharel em Administração Pública pela Universidade Estadual Paulista (UNESP) e regularmente matriculada no 6º semestre do curso tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos (FATEC).</p>
 
-<p align="justify">Possuo experiência na área de Tecnologia, tive a oportunidade de realizar meu estágio na General Electric (GE Taubaté) por um ano, onde trabelhei com o desenvolvimento de um projeto de melhoria das traduções técnicas com termos de Engenharia. Além disso, atuei realizando tratamento de dados, dashboards para entendimento de listas de documentos e principalmente desenvolvimento de automações de processos.</p>
+<p align="justify">Possuo experiência na área de Tecnologia, tive a oportunidade de realizar meu estágio na General Electric (GE Taubaté) por um ano, onde trabalhei com o desenvolvimento de um projeto de melhoria das traduções técnicas com termos de Engenharia utilizando VBA e Python. Além disso, atuei realizando tratamento de dados, dashboards para entendimento de listas de documentos e principalmente desenvolvimento de automações de processos.</p>
 
-<p align="justify">Atualmente estou começando uma nova jornada como Assessora de Tecnologia do Banco do Brasil (BB), no qual terei a oportunidade de me desenvolver tecnicamente, trabalhando com desenvolvimento em si.</p>
+<p align="justify">Atualmente sou Assessora de Tecnologia do Banco do Brasil (BB), onde atuo como desenvolvedora Backend Java, em projetos que envolvem mensageria e APIs que recebem, processam e enviam transações.</p>
 
 <p align="center">• <a href="https://www.git.com/Cauana">LinkedIn</a> • <a href="https://www.linkedin.com/in/cauanadias/">GitHub</a> •</p>
 
-
-<details><summary><b>Meus Principais Conhecimentos</b></summary>
-<br>
-<p align="justify">Aprendizados sobre a linguagem de programação Java, pude desenvolver a lógica da aplicação, desenvolvi a capacidade de projetar e implementar APIs RESTful para expor operações CRUD, garantindo uma comunicação eficaz entre diferentes componentes do sistema e possibilitando a integração com outras aplicações. Obtive experiência prática com bancos de dados relacionais, como PostgreSQL, aprendendo a armazenar e recuperar dados de forma eficiente e segura.</p>
-<p align="justify">Aprimorei minhas habilidades em utilizar o Git para controle de versão do código-fonte e colaboração em equipe, garantindo um fluxo de trabalho suave e colaborativo durante todo o desenvolvimento do projeto. Além de conseguir adquirir conhecimentos básicos de tecnologias front-end, incluindo HTML, CSS e JavaScript, permitindo-me construir interfaces de usuário interativas e amigáveis para os usuários finais.</p></details>
-</details>
-
 <h4>Meus Projetos</h4>
 
-<h4>Em 2022-2</h4> 
+<h4>1ª API - 2º semestre 2022</h4> 
 <p align="justify"> A solução desenvolvida, chamada "Agile Assessment" foi um sistema que realiza a avaliação 360° entre os membros de uma equipe scrum, sendo uma avaliação de seus pares de equipe, a si mesmo e de professores, utilizando a Escala Likert como parâmetro.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/5063a5ed-99b7-4fff-ba57-8ea1fe8242ba" width="70%"></p>
@@ -36,13 +29,14 @@
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
-<ul>
-    <li><strong>Figma:</strong> Ferramenta para design e prototipação de interfaces, usada para desenvolver o layout e o fluxo visual do sistema.</li>
-    <li><strong>Python Flask:</strong> Framework leve para desenvolvimento de aplicações web em Python, utilizado para implementar a lógica do backend e as rotas da aplicação.</li>
-    <li><strong>Git:</strong> Sistema de controle de versão distribuído, utilizado para gerenciar o código-fonte e colaborar com a equipe.</li>
-    <li><strong>HTML, CSS e JavaScript:</strong> Tecnologias de frontend usadas para construir a interface de usuário, estilizar o conteúdo e adicionar interatividade às páginas.</li>
-    <li><strong>TinyDB:</strong> Banco de dados NoSQL leve, em Python, utilizado para armazenar e gerenciar os dados da aplicação de forma ágil e integrada.</li>
-</ul>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <strong>TinyDB</strong>
 
 
 <b>Contribuições Pessoais</summary></b>
@@ -290,66 +284,16 @@
 </details>
 
 <br>
-  <summary><b>Hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Python:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Flask:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Git:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>HTML/CSS/JavaScript:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-  </table>
 
+<h2>Hard Skills</h2>
 
-<summary><b>Soft skills</b></summary>
-<br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Comunicação Efetiva:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Trabalho em Equipe:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resolução de Problemas:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Adaptabilidade:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Atenção aos Detalhes:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Gestão do Tempo:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Aprendizado Contínuo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resiliência:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-  </table>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Python</b></td> <td>Adquiri experiência com desenvolvimento de aplicações utilizando python e aprendendo a lógica.</td> </tr> <tr> <td align="center"><b>Lógica de Programação</b></td> <td> Consegui entender e compreender a lógica de programação para desenvolvimento de condições e aplicar lógica do negócio no código. </td> </tr> <tr> <td align="center"><b>Flask</b></td> <td>Conhecimento adquirido através do desenvolvimento de APIs RESTful e aplicações web com Flask.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Versionamento de código, colaboração em equipe e uso de repositórios remotos (GitHub/GitLab).</td> </tr> <tr> <td align="center"><b>HTML/CSS/JavaScript</b></td> <td>Criação de interfaces responsivas e dinâmicas, com integração a APIs.</td> </tr> </table>
 
-<h4>Em 2023-1</h4> 
+<h2>Soft Skills</h2>
+
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Melhorei muito a comunicação, principalmente por fazer parte de um grupo grande, foi necessário aprender a lidar com diferentes tipos de ideias e formas de trabalhar</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Foi necessário atuar com colaboração ativa no projeto, respeitando prazos e contribuindo para a melhoria contínua.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Primeira vez enfrentando desafios sem saber como resolver e foi preciso pensar e estudar muito para propor soluções eficientes e escaláveis.</td> </tr> <tr> <td align="center"><b>Adaptabilidade</b></td> <td>Por ter pouco conhecimento em programação, precisei me adaptar muito a mudanças, começamos fazendo o projeto em tkinter o que atrapalhou muito o desenvolvimento, e após analisar junto ao grupo, modificamos e conseguimos chegar em um resultado bom.</td> </tr></table>
+    
+<h4>2ª API - 1º semestre 2023</h4> 
 <p align="justify">O produto em parceria com a 2RP é um sistema que realiza o controle de horas excedentes de colaboradores da empresa. A empresa parceira é conhecida por disponibilizar soluções para análise de informações em tempo real para tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. As soluções inovadoras e customizadas a diferenciam no mercado, assim como os serviços, permitem o crescimento de negócio e de seus resultados.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/47537933-29eb-4be1-9125-8afe2555c88a" width="70%"></p>
