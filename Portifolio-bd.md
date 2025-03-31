@@ -724,8 +724,8 @@ formulario.addEventListener('submit', function (event) {
 
 <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Capacidade de articular ideias com clareza para equipes técnicas, stakeholders e clientes.</td> </tr> <tr> <td align="center"><b>Negociação</b></td> <td>Habilidade para equilibrar interesses de diferentes partes e garantir que as prioridades certas sejam atendidas.</td> </tr> <tr> <td align="center"><b>Tomada de Decisão</b></td> <td>Aptidão para tomar decisões rápidas e bem fundamentadas, alinhadas à visão do produto.</td> </tr> <tr> <td align="center"><b>Visão Estratégica</b></td> <td>Capacidade de entender o mercado, concorrência e objetivos da empresa para guiar o desenvolvimento do produto.</td> </tr> <tr> <td align="center"><b>Empatia</b></td> <td>Compreensão das necessidades dos usuários finais e stakeholders para criar um produto que realmente agregue valor.</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração eficaz com desenvolvedores, designers e demais áreas da empresa.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Capacidade de identificar desafios e propor soluções inovadoras para superar obstáculos.</td> </tr> </table>
 
-<h4>Em 2024-1</h4> 
-<p align="justify">A Oracle Partner Tracker é uma plataforma moderna e inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente de Tracks e Expertises de cada empresa parceira, para facilitar a identificação de melhorias e de conclusões estratégicas.</p>
+<h4>4ª API - 1º Semestre 2024</h4> 
+<p align="justify">A Oracle Partner Tracker é uma plataforma inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente de Tracks e Expertises de cada empresa parceira, para facilitar a identificação de melhorias e de conclusões estratégicas.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/c6aad513-edad-42ed-bcfd-45cb2d8e1e72" width="70%"></p>
 
@@ -733,17 +733,16 @@ formulario.addEventListener('submit', function (event) {
 [GIT](https://github.com/oJavaLi/doisrponto?tab=readme-ov-file)
 
 <summary><b>Tecnologias Utilizadas</b></summary>
-<br>
-<ul>
-    <li><strong>Jira:</strong> Plataforma de gestão de projetos e rastreamento de tarefas, com foco em equipes de desenvolvimento ágil.</li>
-    <li><strong>Figma:</strong> Plataforma de design de interface do usuário baseada em nuvem, colaborativa e voltada para criação de protótipos.</li>
-    <li><strong>HTML, CSS e JavaScript:</strong> Tecnologias de frontend usadas para construir a interface de usuário, estilizar o conteúdo e adicionar interatividade às páginas.</li>
-    <li><strong>Swagger:</strong> Conjunto de ferramentas para descrever, consumir e visualizar APIs RESTful.</li>
-    <li><strong>MySQL:</strong> Sistema de gerenciamento de banco de dados relacional de código aberto para armazenar e consultar dados estruturados.</li>
-    <li><strong>VueJS:</strong> Framework JavaScript progressivo para construção de interfaces de usuário e aplicações de página única (SPA).</li>
-    <li><strong>Java:</strong> Linguagem de programação orientada a objetos, amplamente utilizada no desenvolvimento de software corporativo e aplicações web.</li>
-    <li><strong>Spring Boot:</strong> Framework Java que facilita a configuração e desenvolvimento de aplicações Java de forma rápida e com menos complexidade.</li>
-    <li><strong>Hibernate:</strong> Framework de mapeamento objeto-relacional para Java, facilitando a interação entre objetos Java e bancos de dados relacionais.</li>
+<br> 
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+
 </ul>
 <b>Contribuições Pessoais</b>
 </summary><br>
@@ -949,73 +948,70 @@ public interface WorkloadRepository extends JpaRepository <Workload,Long>{
 </details>
 
 <br>
-  <summary><b>Hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Java:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Java Spring Framework:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Banco de Dados Relacionais, PostgreSQL:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Git:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>RESTful APIs:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>HTML/CSS/JavaScript:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Diagrama DER:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-  </table>
+  <h2>Hard skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%"> 
+  <tr> 
+    <th align="center" width="30%"><b>Habilidade</b></th> 
+    <th align="center" width="70%"><b>Descrição</b></th> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Construção de APIs RESTful</b></td> 
+    <td>Desenvolvimento de APIs utilizando <b>Spring Boot</b>, seguindo padrões RESTful para facilitar a comunicação entre sistemas e garantir escalabilidade.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Implementação de CRUDs</b></td> 
+    <td>Criação de operações de <b>CRUD</b> com <b>Spring Boot</b> e <b>JPA/Hibernate</b>, garantindo persistência de dados eficiente e segura.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Documentação de Endpoints</b></td> 
+    <td>Uso de <b>Swagger/OpenAPI</b> para documentação clara e interativa de APIs, facilitando a integração com outros sistemas e desenvolvedores.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Otimização de Consultas SQL</b></td> 
+    <td>Aplicação de boas práticas para <b>otimizar consultas</b> no banco de dados, reduzindo tempo de resposta e melhorando a performance das aplicações.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Interfaces Dinâmicas com Vue.js</b></td> 
+    <td>Desenvolvimento de <b>interfaces interativas</b> e dinâmicas utilizando <b>Vue.js</b>, garantindo melhor experiência do usuário e integração eficiente com APIs.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Design Patterns e Boas Práticas</b></td> 
+    <td>Aplicação de <b>padrões de projeto (Design Patterns)</b> e boas práticas no desenvolvimento para garantir código limpo, modular e reutilizável.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Uso de Lombok</b></td> 
+    <td>Utilização do <b>Lombok</b> para reduzir código boilerplate em classes Java, tornando o desenvolvimento mais produtivo e organizado.</td> 
+  </tr> 
+</table>
 
 
-<summary><b>Soft skills</b></summary>
+
+<h2>Soft skills</h2>
 <br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Comunicação Efetiva:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Trabalho em Equipe:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resolução de Problemas:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Adaptabilidade:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Atenção aos Detalhes:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Gestão do Tempo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Aprendizado Contínuo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resiliência:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-  </table>
+<table align="center" border="1" cellpadding="10" width="100%"> 
+  <tr> 
+    <th align="center" width="30%"><b>Habilidade</b></th> 
+    <th align="center" width="70%"><b>Descrição</b></th> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Resolução de Problemas</b></td> 
+    <td>Capacidade de identificar, analisar e solucionar problemas de software de forma eficiente, garantindo a estabilidade e desempenho da aplicação.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Diagnóstico de Erros</b></td> 
+    <td>Uso de <b>logs do Spring Boot</b> para identificar e corrigir erros, analisando mensagens de erro e rastreando a origem dos problemas.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Debugging</b></td> 
+    <td>Utilização das ferramentas de <b>debugging</b> no <b>IntelliJ</b> e <b>VS Code</b> para inspecionar variáveis, analisar a execução do código e corrigir falhas.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Gestão de Tempo e Organização</b></td> 
+    <td>Planejamento eficaz das tarefas, priorizando demandas e garantindo a entrega dentro dos prazos estabelecidos.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Planejamento de Tarefas</b></td> 
+    <td>Organização das atividades dentro dos <b>sprints</b>, garantindo alinhamento com a equipe e cumprimento dos objetivos do projeto.</td> 
+  </tr> 
+</table>
+
