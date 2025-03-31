@@ -423,9 +423,9 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 <h2>Hard Skills</h2>
 <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Java</b></td> <td>Desenvolvimento de aplicações utilizando Java para backend.</td> </tr> <tr> <td align="center"><b>Java Spring Framework</b></td> <td>Criação de APIs RESTful, gerenciamento de dependências e injeção de dependências com Spring Boot.</td> </tr> <tr> <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td> <td>Modelagem, consultas SQL básicas.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Controle de versão, colaboração em equipe e uso de repositórios remotos.</td> </tr> <tr> <td align="center"><b>RESTful APIs</b></td> <td>Desenvolvimento de serviços web seguindo boas práticas de arquitetura REST.</td> </tr> <tr> <td align="center"><b>HTML/CSS/JavaScript</b></td> <td>Criação de interfaces web responsivas e interativas.</td> </tr> <tr> <td align="center"><b>Diagrama DER</b></td> <td>Modelagem de banco de dados e relacionamento entre entidades.</td> </tr> </table>
 <h2>Soft Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Capacidade de transmitir ideias de forma clara e objetiva.</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração ativa em projetos e respeito às opiniões dos colegas.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Habilidade para identificar desafios e propor soluções eficazes.</td> </tr> <tr> <td align="center"><b>Adaptabilidade</b></td> <td>Facilidade para aprender novas tecnologias e lidar com mudanças.</td> </tr> <tr> <td align="center"><b>Atenção aos Detalhes</b></td> <td>Garantia de qualidade e precisão em código e documentação.</td> </tr> <tr> <td align="center"><b>Gestão do Tempo</b></td> <td>Planejamento eficiente para cumprir prazos e aumentar produtividade.</td> </tr> <tr> <td align="center"><b>Aprendizado Contínuo</b></td> <td>Busca constante por atualização e aprimoramento profissional.</td> </tr> <tr> <td align="center"><b>Resiliência</b></td> <td>Capacidade de lidar com desafios e persistir até encontrar uma solução.</td> </tr> </table>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração ativa em projetos e respeito às opiniões dos colegas.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Habilidade para identificar desafios e propor soluções eficazes, principalmente com um produto real, tentando entender a real entrega de valor.</td> </tr> <tr> <td align="center"><b>Gestão do Tempo</b></td> <td>Planejamento eficiente para cumprir prazos e aumentar produtividade, com mais pressão pois tinha um cliente real.</td> </tr> <tr> <td align="center"><b>Aprendizado Contínuo</b></td> <td>Busca constante por atualização e aprimoramento profissional, através de um projeto real.</td> </tr> <tr> <td align="center"><b>Resiliência</b></td> <td>Lidar com os desafios propostos e persistir até encontrar uma solução.</td> </tr> </table>
 
-<h4>Em 2023-2</h4> 
+<h4>3ª API - 2º semestre 2023</h4> 
 <p align="justify">O produto 2Rponto é um sistema que realiza o controle de horas excedentes de colaboradores da empresa 2RP Net. A empresa parceira é conhecida por disponibilizar soluções para análise de informações em tempo real para tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. As soluções inovadoras e customizadas a diferenciam no mercado, assim como os serviços, permitem o crescimento de negócio e de seus resultados.</p>
 
 <p align="center"><img src="https://github.com/Cauana/bertoti/assets/77700346/2c90ccaa-860e-44a9-afa8-b276b372905e" width="70%"></p>
@@ -436,13 +436,12 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
-<ul>
-    <li><strong>Figma:</strong> Plataforma de design de interface do usuário.</li>
-    <li><strong>Java Spring:</strong> Framework de desenvolvimento Java com gama de recursos para desenvolver aplicativos robustos e escaláveis.</li>
-    <li><strong>Git:</strong> Sistema de controle de versão distribuído.</li>
-    <li><strong>Slack:</strong> Plataforma de comunicação empresarial.</li>
-    <li><strong>PostgreSQL:</strong> Sistema de gerenciamento de banco de dados relacional de código aberto para armazenar dados cadastrados.</li>
-</ul>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 <b>Contribuições Pessoais</summary></b>
 <br>
@@ -717,78 +716,13 @@ formulario.addEventListener('submit', function (event) {
 |9|Como RH, eu quero ser capaz de acessar um dashboard em tempo real que me permita monitorar as horas extras executadas pelos colaboradores, para acompanhar horas trabalhadas de acordo com as necessidades do CR|Baixa|4|
  
 </details>
-
 <br>
-  <summary><b>Hard skills</b></summary>
-  <br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Java:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Java Spring Framework:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Banco de Dados Relacionais, PostgreSQL:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Git:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>RESTful APIs:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>HTML/CSS/JavaScript:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Diagrama DER:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-  </table>
 
+<h2>Hard Skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Java</b></td> <td>Desenvolvimento de aplicações utilizando Java para backend.</td> </tr> <tr> <td align="center"><b>Java Spring Framework</b></td> <td>Criação de APIs RESTful, gerenciamento de dependências e injeção de dependências com Spring Boot.</td> </tr> <tr> <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td> <td>Modelagem, consultas SQL básicas.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Controle de versão, colaboração em equipe e uso de repositórios remotos.</td> </tr> <tr> <td align="center"><b>RESTful APIs</b></td> <td>Desenvolvimento de serviços web seguindo boas práticas de arquitetura REST.</td> </tr> <tr> <td align="center"><b>Gestão de Backlog</b></td> <td>Criação, priorização e refinamento do backlog do produto, garantindo que os itens estejam bem definidos e alinhados com a estratégia de negócios.</td> </tr> <tr> <td align="center"><b>Definição de Requisitos</b></td> <td>Transformação das necessidades do negócio em requisitos claros e detalhados para a equipe de desenvolvimento.</td> </tr> </table>
+<h2>Soft Skills</h2>
 
-<summary><b>Soft skills</b></summary>
-<br>
-  <table align="center">
-    <tr>
-      <td align="center"><b>Comunicação Efetiva:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Trabalho em Equipe:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resolução de Problemas:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Adaptabilidade:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Atenção aos Detalhes:</b></td>
-      <td>🌟🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Gestão do Tempo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Aprendizado Contínuo:</b></td>
-      <td>🌟🌟🌟🌟</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Resiliência:</b></td>
-      <td>🌟🌟🌟</td>
-    </tr>
-  </table>
+<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Capacidade de articular ideias com clareza para equipes técnicas, stakeholders e clientes.</td> </tr> <tr> <td align="center"><b>Negociação</b></td> <td>Habilidade para equilibrar interesses de diferentes partes e garantir que as prioridades certas sejam atendidas.</td> </tr> <tr> <td align="center"><b>Tomada de Decisão</b></td> <td>Aptidão para tomar decisões rápidas e bem fundamentadas, alinhadas à visão do produto.</td> </tr> <tr> <td align="center"><b>Visão Estratégica</b></td> <td>Capacidade de entender o mercado, concorrência e objetivos da empresa para guiar o desenvolvimento do produto.</td> </tr> <tr> <td align="center"><b>Empatia</b></td> <td>Compreensão das necessidades dos usuários finais e stakeholders para criar um produto que realmente agregue valor.</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração eficaz com desenvolvedores, designers e demais áreas da empresa.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Capacidade de identificar desafios e propor soluções inovadoras para superar obstáculos.</td> </tr> </table>
 
 <h4>Em 2024-1</h4> 
 <p align="justify">A Oracle Partner Tracker é uma plataforma moderna e inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente de Tracks e Expertises de cada empresa parceira, para facilitar a identificação de melhorias e de conclusões estratégicas.</p>
