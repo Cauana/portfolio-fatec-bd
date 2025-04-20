@@ -20,7 +20,7 @@
 <h4>Meus Projetos</h4>
 
 <h4>1ª API - 2º semestre 2022</h4> 
-<p align="justify"> A solução desenvolvida, chamada "Agile Assessment" foi um sistema que realiza a avaliação 360° entre os membros de uma equipe scrum, sendo uma avaliação de seus pares de equipe, a si mesmo e de professores, utilizando a Escala Likert como parâmetro.</p>
+<p align="justify"> Os professores da FATEC, precisavam de uma forma prática de avaliar e visualizar o desempenho dos alunos em equipes Scrum durante as sprints. Ele queria centralizar as notas de autoavaliação, avaliação entre pares e avaliação do próprio professor, com base na Escala Likert, para todos os grupos da sala em um único sistema. A solução desenvolvida, chamada "Agile Assessment" foi um sistema que realiza a avaliação 360° entre os membros de uma equipe scrum, sendo uma avaliação de seus pares de equipe, a si mesmo e de professores, utilizando a Escala Likert como parâmetro.</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/5063a5ed-99b7-4fff-ba57-8ea1fe8242ba" width="70%"></p>
 
@@ -1014,4 +1014,311 @@ public interface WorkloadRepository extends JpaRepository <Workload,Long>{
     <td>Organização das atividades dentro dos <b>sprints</b>, garantindo alinhamento com a equipe e cumprimento dos objetivos do projeto.</td> 
   </tr> 
 </table>
+
+
+<h4>5ª API - 2º Semestre 2024</h4> 
+<p align="justify">O problema apresentado pela empresa Pro4Tech está relacionado à eficiência e à eficácia no processo de recrutamento e seleção de pessoal. Atualmente, a empresa busca otimizar a maneira como os dados de recrutamento são coletados, visualizados e analisados. A "dor" central do cliente inclui a necessidade de centralizar e visualizar dados dispersos, permitir uma tomada de decisão estratégica, gerar relatórios personalizados e automatizar processos manuais, além de possibilitar a integração de dados de diferentes fontes.
+
+O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos como:
+
+- Métricas de eficiência no recrutamento (ex. tempo médio de contratação, quantidade de contratações por processo seletivo).
+
+- Identificação de padrões e tendências para otimizar o processo de seleção.
+
+- Personalização de relatórios conforme as necessidades específicas dos gestores.
+
+- A plataforma é voltada para gerentes de RH e analistas.</p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/c941a1f0-442e-4978-9dd7-6b577989e0ca" width="70%"></p>
+
+    
+[GIT](https://github.com/bytelabss/ByteLabss-API5sem)
+
+<summary><b>Tecnologias Utilizadas</b></summary>
+<br> 
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+<img src="https://img.shields.io/badge/spark-%2523ED8B00.svg?style=for-the-badge&logo=apache%20spark&color=white" alt="Apache Spark">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+</ul>
+<b>Contribuições Pessoais</b>
+</summary><br>
+<p align="justify">Atuei como Desenvolvedora no projeto, implementando filtros para visualização de dados do processo seletivo para facilitar a visualização dos candidatos vinculados a cada processo. Desenvolvi endpoints dedicados para retornar informações sobre candidatos e processos seletivos, otimizando a navegação e análise dos dados. Além disso, fui responsável por implementar a Integração Contínua (CI) na equipe, automatizando os testes e o processo de build, o que contribuiu para maior agilidade e confiabilidade nas entregas.</p>
+ 
+
+<details><Summary><b>Filtro por nome do processo seletivo para visualizar candidatos daquele processo</b></Summary>
+    
+![image](https://github.com/user-attachments/assets/b85ffa11-5249-409c-b051-dbf36dfb20c9)
+
+![image](https://github.com/user-attachments/assets/c732b264-65cb-4582-b333-211b796117b2)
+
+![image](https://github.com/user-attachments/assets/d5806e09-9617-4a22-8d4e-cfa0c876e3a6)
+
+</details>
+
+<details><Summary><b>Lista candidatos por determinado processo seletivo</b></Summary>
+    
+![image](https://github.com/user-attachments/assets/7d4ad903-951f-48e7-80a9-cd1474a868b8)
+![image](https://github.com/user-attachments/assets/82a76a94-eef6-4fa7-851d-0d7bf79331ac)
+![image](https://github.com/user-attachments/assets/20552e7e-5b96-447a-85b9-41a9d5889e9c)
+![image](https://github.com/user-attachments/assets/ed1635e1-154b-4fd8-9ebc-9e6ba1585b5e)
+
+
+
+</details>
+
+<details><Summary><b>Integração Contínua (CI)</b></Summary>
+    
+<p align="justify">Fui responsável pela implementação da Integração Contínua (CI) da equipe, estruturando todo o fluxo de automação com base nas branches do projeto: BYTE, DEV, TESTE e MAIN. Configurei pipelines para execução de testes e validação de código a cada push em branch de feature (CI FEATURE ON PUSH), além de garantir validações automáticas durante os merges entre ambientes: da feature para DEV, de DEV para TESTE e de TESTE para MAIN. Essa organização permitiu uma maior segurança nas entregas, identificação precoce de falhas e uma padronização no processo de desenvolvimento e deploy, otimizando o fluxo de trabalho do time.</p>
+
+![CI-Byte](https://github.com/user-attachments/assets/7cc35d80-b9be-47a4-8703-d4ffae78f374)
+
+</details>
+
+
+<details><Summary><b>Definição do backlog do produto.</b></Summary>
+
+<body>
+        <div align="center">
+                <table>
+                        <thead>
+                                <th>Ranking</th>
+                                <th>Requisito <b> funcional</b></th>
+                                <th>User Story</th>
+                                <th>Sprint</th>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                        <td>US01</td>
+                                        <td>1</td>
+                                        <td align="justify">Eu, como gerente de RH, quero visualizar o tempo médio de contratações realizadas para cada processo seletivo em um período determinado, para poder avaliar a eficiência dos processos de recrutamento e identificar áreas de melhoria</td>
+                                        <td>1</td>
+                                </tr>
+                                <tr>
+                                        <td>US02</td>
+                                        <td>1</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar o tempo médio de contratações realizadas para cada vaga em um período determinado, para que eu possa entender o desempenho das vagas individuais e melhorar a gestão de vagas futuras</td>
+                                        <td>1</td>
+                                </tr>
+                                <tr>
+                                        <td>US03</td>
+                                        <td>1</td>
+                                        <td align="justify">Eu, como gerente de RH, quero visualizar a quantidade de contratações realizadas por cada processo seletivo em um período específico, para que eu possa monitorar o progresso e a eficiência dos processos seletivos</td>
+                                        <td>1</td>
+                                </tr>
+                                <tr>
+                                        <td>US04</td>
+                                        <td>1</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar a quantidade de contratações realizadas por cada participante de RH, em um período específico, para que eu possa avaliar a produtividade e desempenho individual dos recrutadores</td>
+                                        <td>1</td>
+                                </tr>
+                                <tr>
+                                        <td>US05</td>
+                                        <td>7</td>
+                                        <td align="justify">Eu, como gerente de RH, quero um processo de ETL que extraia, transforme e carregue os dados de processos seletivos, vagas, participantes de RH, contratações e tempos envolvidos, para que eu possa consolidar essas informações em um data warehouse e realizar análises mais eficazes para melhorar as decisões de recrutamento</td>
+                                        <td>1</td>
+                                </tr>
+                                <tr>
+                                        <td>US06</td>
+                                        <td>3</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder gerar relatórios manualmente, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
+                                        <td>2</td>
+                                </tr>
+                                <tr>
+                                        <td>US07</td>
+                                        <td>3</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder receber relatórios automáticos sazonais, em PDF e em Excel, para que eu possa estudar períodos específicos dos processos seletivos e tomar novas decisões de forma embasada</td>
+                                        <td>2</td>
+                                </tr>
+                                <tr>
+                                        <td>US08</td>
+                                        <td>1</td>
+                                        <td align="justify">Eu, como analista de RH, quero visualizar a pontuação de cada candidato por critério de avaliação, para cada vaga, para que eu possa avaliar objetivamente o desempenho dos candidatos e tomar decisões mais informadas no processo de contratação</td>
+                                        <td>2</td>
+                                </tr>
+                                <tr>
+                                        <td>US09</td>
+                                        <td>5</td>
+                                        <td align="justify">Eu, como analista de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td>3</td>
+                                </tr>
+                                <tr>
+                                        <td>US10</td>
+                                        <td>5</td>
+                                        <td align="justify">Eu, como gerente de RH, quero receber alarmes na tela sempre que um dashboard padrão sair do ideal, para que eu possa fazer manobras estratégicas quando necessário</td>
+                                        <td>3</td>
+                                </tr>
+                                <tr>
+                                        <td>US11</td>
+                                        <td>2</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder criar e salvar consultas personalizadas na base de dados, para poder facilitar meu acesso</td>
+                                        <td>3</td>
+                                </tr>
+                                <tr>
+                                        <td>US12</td>
+                                        <td>6</td>
+                                        <td align="justify">Eu, como analista de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros usuários em suas atividades</td>
+                                        <td>4</td>
+                                </tr>
+                                <tr>
+                                        <td>US13</td>
+                                        <td>6</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder compartilhar minhas consultas personalizadas, para poder auxiliar outros em suas atividades</td>
+                                        <td>4</td>
+                                </tr>
+                                <tr>
+                                        <td>US14</td>
+                                        <td>4</td>
+                                        <td align="justify">Eu, como gerente de RH, quero poder cadastrar os novos membros de minha equipe, para que eles possam acessar o sistema</td>
+                                        <td>4</td>
+                                </tr>
+                        </tbody>
+                </table>
+        </div>
+</body>
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>US</th>
+            <th>Como Um</th>
+            <th>Eu Preciso</th>
+            <th>Para</th>
+            <th>Prioridade</th>
+            <th>Sprint</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Administrador</td>
+            <td>Acessar um dashboard que apresente informações gerais sobre o sistema e os parceiros.</td>
+            <td>Ter uma visão abrangente do contexto.</td>
+            <td>Imprescindível</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Administrador</td>
+            <td>Importar um arquivo CSV com dados relevantes, e tê-lo tratado e incorporado na plataforma.</td>
+            <td>Adicionar e atualizar os dados do sistema.</td>
+            <td>Imprescindível</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Administrador</td>
+            <td>Utilizar filtros no dashboard, para visualização específicas de dados, como durante um período de tempo ou uma quantidade específica.</td>
+            <td>Facilitar a análise de dados.</td>
+            <td>Importante</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Administrador</td>
+            <td>Visualizar as OPN Tracks mais utilizadas em um campo dedicado no dashboard.</td>
+            <td>Entender as áreas de maior interesse e atividade.</td>
+            <td>Importante</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Administrador</td>
+            <td>Visualizar quanto cada OPN Track representa do total de parceiros Oracle.</td>
+            <td>Entender a popularidade das tracks.</td>
+            <td>Desejável</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Administrador</td>
+            <td>Visualizar a porcentagem da expertise total de cada parceiro Oracle.</td>
+            <td>Entender a distribuição de habilidades dentro da plataforma.</td>
+            <td>Desejável</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+</details>
+
+<br>
+  <h2>Hard skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%"> 
+  <tr> 
+    <th align="center" width="30%"><b>Habilidade</b></th> 
+    <th align="center" width="70%"><b>Descrição</b></th> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Construção de APIs RESTful</b></td> 
+    <td>Desenvolvimento de APIs utilizando <b>Spring Boot</b>, seguindo padrões RESTful para facilitar a comunicação entre sistemas e garantir escalabilidade.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Implementação de CRUDs</b></td> 
+    <td>Criação de operações de <b>CRUD</b> com <b>Spring Boot</b> e <b>JPA/Hibernate</b>, garantindo persistência de dados eficiente e segura.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Documentação de Endpoints</b></td> 
+    <td>Uso de <b>Swagger/OpenAPI</b> para documentação clara e interativa de APIs, facilitando a integração com outros sistemas e desenvolvedores.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Otimização de Consultas SQL</b></td> 
+    <td>Aplicação de boas práticas para <b>otimizar consultas</b> no banco de dados, reduzindo tempo de resposta e melhorando a performance das aplicações.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Interfaces Dinâmicas com Vue.js</b></td> 
+    <td>Desenvolvimento de <b>interfaces interativas</b> e dinâmicas utilizando <b>Vue.js</b>, garantindo melhor experiência do usuário e integração eficiente com APIs.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Design Patterns e Boas Práticas</b></td> 
+    <td>Aplicação de <b>padrões de projeto (Design Patterns)</b> e boas práticas no desenvolvimento para garantir código limpo, modular e reutilizável.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Uso de Lombok</b></td> 
+    <td>Utilização do <b>Lombok</b> para reduzir código boilerplate em classes Java, tornando o desenvolvimento mais produtivo e organizado.</td> 
+  </tr> 
+</table>
+
+
+
+<h2>Soft skills</h2>
+<br>
+<table align="center" border="1" cellpadding="10" width="100%"> 
+  <tr> 
+    <th align="center" width="30%"><b>Habilidade</b></th> 
+    <th align="center" width="70%"><b>Descrição</b></th> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Resolução de Problemas</b></td> 
+    <td>Capacidade de identificar, analisar e solucionar problemas de software de forma eficiente, garantindo a estabilidade e desempenho da aplicação.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Diagnóstico de Erros</b></td> 
+    <td>Uso de <b>logs do Spring Boot</b> para identificar e corrigir erros, analisando mensagens de erro e rastreando a origem dos problemas.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Debugging</b></td> 
+    <td>Utilização das ferramentas de <b>debugging</b> no <b>IntelliJ</b> e <b>VS Code</b> para inspecionar variáveis, analisar a execução do código e corrigir falhas.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Gestão de Tempo e Organização</b></td> 
+    <td>Planejamento eficaz das tarefas, priorizando demandas e garantindo a entrega dentro dos prazos estabelecidos.</td> 
+  </tr> 
+  <tr> 
+    <td align="center"><b>Planejamento de Tarefas</b></td> 
+    <td>Organização das atividades dentro dos <b>sprints</b>, garantindo alinhamento com a equipe e cumprimento dos objetivos do projeto.</td> 
+  </tr> 
+</table>
+
+
 
