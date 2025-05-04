@@ -1252,47 +1252,45 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 <br>
 </details>
 
-<br>
-  <h2>Hard skills</h2>
+<h2>Hard skills</h2>
 <table align="center" border="1" cellpadding="10" width="100%"> 
   <tr> 
     <th align="center" width="30%"><b>Habilidade</b></th> 
     <th align="center" width="70%"><b>Descrição</b></th> 
   </tr> 
   <tr> 
-    <td align="center"><b>Construção de APIs RESTful</b></td> 
-    <td>Desenvolvimento de APIs utilizando <b>Spring Boot</b>, seguindo padrões RESTful para facilitar a comunicação entre sistemas e garantir escalabilidade.</td> 
+    <td align="center"><b>Desenvolvimento de APIs RESTful</b></td> 
+    <td>Implementação de APIs com <b>Spring Boot</b>, seguindo padrões RESTful para integrar e disponibilizar dados de recrutamento e seleção de forma eficiente.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Implementação de CRUDs</b></td> 
-    <td>Criação de operações de <b>CRUD</b> com <b>Spring Boot</b> e <b>JPA/Hibernate</b>, garantindo persistência de dados eficiente e segura.</td> 
+    <td align="center"><b>Integração com Frontend Vue.js</b></td> 
+    <td>Desenvolvimento de endpoints personalizados e integração com componentes dinâmicos do <b>Vue.js</b> para exibição de dados em dashboards interativos.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Documentação de Endpoints</b></td> 
-    <td>Uso de <b>Swagger/OpenAPI</b> para documentação clara e interativa de APIs, facilitando a integração com outros sistemas e desenvolvedores.</td> 
+    <td align="center"><b>Documentação com Swagger</b></td> 
+    <td>Documentação interativa das APIs usando <b>Swagger/OpenAPI</b>, facilitando a integração entre sistemas e a compreensão dos serviços expostos.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Otimização de Consultas SQL</b></td> 
-    <td>Aplicação de boas práticas para <b>otimizar consultas</b> no banco de dados, reduzindo tempo de resposta e melhorando a performance das aplicações.</td> 
+    <td align="center"><b>Integração Contínua (CI)</b></td> 
+    <td>Configuração de pipelines de <b>Integração Contínua (CI)</b> com validação de código e testes automatizados a cada push em branches específicas, garantindo qualidade e padronização.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Interfaces Dinâmicas com Vue.js</b></td> 
-    <td>Desenvolvimento de <b>interfaces interativas</b> e dinâmicas utilizando <b>Vue.js</b>, garantindo melhor experiência do usuário e integração eficiente com APIs.</td> 
+    <td align="center"><b>Conceitos de DevOps</b></td> 
+    <td>Aplicação de práticas <b>DevOps</b> no fluxo de desenvolvimento, com automação de builds, testes e integração entre ambientes (BYTE, DEV, TESTE e MAIN).</td> 
+  </tr>
+  <tr> 
+    <td align="center"><b>Modelagem de Dados Analíticos</b></td> 
+    <td>Construção de esquemas dimensionais para suporte à visualização analítica de dados de RH, possibilitando análise OLAP e relatórios gerenciais personalizados.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Design Patterns e Boas Práticas</b></td> 
-    <td>Aplicação de <b>padrões de projeto (Design Patterns)</b> e boas práticas no desenvolvimento para garantir código limpo, modular e reutilizável.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Uso de Lombok</b></td> 
-    <td>Utilização do <b>Lombok</b> para reduzir código boilerplate em classes Java, tornando o desenvolvimento mais produtivo e organizado.</td> 
-  </tr> 
+    <td align="center"><b>SQL e Spark para ETL</b></td> 
+    <td>Manipulação de dados com <b>SQL</b> e uso do <b>Apache Spark</b> para processamentos ETL, integrando diferentes fontes de dados para o Data Warehouse.</td> 
+  </tr>
 </table>
 
 
 
 <h2>Soft skills</h2>
-<br>
 <table align="center" border="1" cellpadding="10" width="100%"> 
   <tr> 
     <th align="center" width="30%"><b>Habilidade</b></th> 
@@ -1300,25 +1298,26 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
   </tr> 
   <tr> 
     <td align="center"><b>Resolução de Problemas</b></td> 
-    <td>Capacidade de identificar, analisar e solucionar problemas de software de forma eficiente, garantindo a estabilidade e desempenho da aplicação.</td> 
+    <td>Capacidade de analisar e solucionar desafios técnicos, como inconsistência de dados, falhas em integrações e lentidão nas visualizações.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Diagnóstico de Erros</b></td> 
-    <td>Uso de <b>logs do Spring Boot</b> para identificar e corrigir erros, analisando mensagens de erro e rastreando a origem dos problemas.</td> 
+    <td align="center"><b>Diagnóstico e Depuração</b></td> 
+    <td>Habilidade no uso de <b>logs do Spring Boot</b>, além de ferramentas de <b>debug</b> para identificar falhas, validar fluxo de dados e garantir estabilidade da aplicação.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Debugging</b></td> 
-    <td>Utilização das ferramentas de <b>debugging</b> no <b>IntelliJ</b> e <b>VS Code</b> para inspecionar variáveis, analisar a execução do código e corrigir falhas.</td> 
+    <td align="center"><b>Colaboração em Equipe</b></td> 
+    <td>Trabalho conjunto com colegas na definição do backlog, integração de código e revisão de PRs, promovendo um ambiente de desenvolvimento colaborativo.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Gestão de Tempo e Organização</b></td> 
-    <td>Planejamento eficaz das tarefas, priorizando demandas e garantindo a entrega dentro dos prazos estabelecidos.</td> 
+    <td align="center"><b>Gestão Ágil de Tarefas</b></td> 
+    <td>Organização do desenvolvimento por meio de <b>sprints</b>, com foco na priorização de entregas e alinhamento com os objetivos da equipe e do cliente.</td> 
   </tr> 
   <tr> 
-    <td align="center"><b>Planejamento de Tarefas</b></td> 
-    <td>Organização das atividades dentro dos <b>sprints</b>, garantindo alinhamento com a equipe e cumprimento dos objetivos do projeto.</td> 
+    <td align="center"><b>Responsabilidade Técnica</b></td> 
+    <td>Comprometimento com a qualidade das entregas e com a manutenção da integridade dos ambientes de desenvolvimento e produção.</td> 
   </tr> 
 </table>
+
 
 
 
