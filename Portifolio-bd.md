@@ -287,11 +287,62 @@
 
 <h2>Hard Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Python</b></td> <td>Adquiri experiência com desenvolvimento de aplicações utilizando python e aprendendo a lógica.</td> </tr> <tr> <td align="center"><b>Lógica de Programação</b></td> <td> Consegui entender e compreender a lógica de programação para desenvolvimento de condições e aplicar lógica do negócio no código. </td> </tr> <tr> <td align="center"><b>Flask</b></td> <td>Conhecimento adquirido através do desenvolvimento de APIs RESTful e aplicações web com Flask.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Versionamento de código, colaboração em equipe e uso de repositórios remotos (GitHub/GitLab).</td> </tr> <tr> <td align="center"><b>HTML/CSS/JavaScript</b></td> <td>Criação de interfaces responsivas e dinâmicas, com integração a APIs.</td> </tr> </table>
+<table align="center" border="1" cellpadding="10" width="70%">
+  <tr>
+    <th align="center" width="30%"><b>Habilidade</b></th>
+    <th align="center" width="70%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Python</b></td>
+    <td><img src="https://geps.dev/progress/80" alt="80%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Lógica de Programação</b></td>
+    <td><img src="https://geps.dev/progress/80" alt="80%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Flask</b></td>
+    <td><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Git</b></td>
+    <td><img src="https://geps.dev/progress/50" alt="50%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>HTML/CSS/JavaScript</b></td>
+    <td><img src="https://geps.dev/progress/50" alt="50%"></td>
+  </tr>
+</table>
 
 <h2>Soft Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Melhorei muito a comunicação, principalmente por fazer parte de um grupo grande, foi necessário aprender a lidar com diferentes tipos de ideias e formas de trabalhar</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Foi necessário atuar com colaboração ativa no projeto, respeitando prazos e contribuindo para a melhoria contínua.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Primeira vez enfrentando desafios sem saber como resolver e foi preciso pensar e estudar muito para propor soluções eficientes e escaláveis.</td> </tr> <tr> <td align="center"><b>Adaptabilidade</b></td> <td>Por ter pouco conhecimento em programação, precisei me adaptar muito a mudanças, começamos fazendo o projeto em tkinter o que atrapalhou muito o desenvolvimento, e após analisar junto ao grupo, modificamos e conseguimos chegar em um resultado bom.</td> </tr></table>
+<table align="center" border="1" cellpadding="10" width="60%">
+  <tr>
+    <th align="center"><b>Habilidade</b></th>
+    <th align="center"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Comunicação Efetiva</b></td>
+    <td><img src="https://geps.dev/progress/90" alt="90%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Trabalho em Equipe</b></td>
+    <td><img src="https://geps.dev/progress/95" alt="95%"><td>
+  </tr>
+  <tr>
+    <td align="center"><b>Resolução de Problemas</b></td>
+    <td><img src="https://geps.dev/progress/60" alt="60%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Adaptabilidade</b></td>
+    <td><img src="https://geps.dev/progress/85" alt="85%"></td>
+  </tr>
+</table>
+
+<p>
+  Participar de um grupo muito grande, com 10 pessoas, foi um desafio que exigiu o desenvolvimento de várias soft skills. Desde o início, precisei aprender não só a programar, mas também a entender como funciona uma metodologia ágil, como o Scrum, algo totalmente novo para mim. A comunicação se tornou essencial para alinhar ideias, distribuir tarefas e resolver conflitos naturais de um time grande. O trabalho em equipe foi constante, principalmente para manter a organização e cumprir os prazos definidos. Na prática, enfrentamos um grande problema técnico: começamos o projeto utilizando Tkinter, mas percebemos que seria inviável desenvolver todas as funcionalidades necessárias com essa tecnologia. Isso exigiu que todo o grupo se adaptasse rapidamente, tomasse decisões assertivas e migrasse para uma nova stack, o que, apesar das dificuldades, resultou em um projeto mais robusto e funcional. Todo esse processo fortaleceu muito minha capacidade de resolver problemas e me adaptar a mudanças.
+</p>
+
     
 <h4>2ª API - 1º semestre 2023</h4> 
 <p align="justify">O produto em parceria com a 2RP é um sistema que realiza o controle de horas excedentes de colaboradores da empresa.Anteriormente, a empresa enfrentava desafios na gestão de horas, dependendo de várias planilhas, o que limitava a disponibilidade, flexibilidade e controle necessários. Em resposta, desenvolvemos uma aplicação que centraliza o controle de horas excedentes, distinguindo entre horas extras e sobreavisos. Essa aplicação também oferece recursos de aprovação ou reprovação das horas pelo gestor da equipe e pelo departamento de Recursos Humanos.</p>
@@ -421,9 +472,80 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 </details>
 
 <h2>Hard Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Java</b></td> <td>Desenvolvimento de aplicações utilizando Java para backend.</td> </tr> <tr> <td align="center"><b>Java Spring Framework</b></td> <td>Criação de APIs RESTful, gerenciamento de dependências e injeção de dependências com Spring Boot.</td> </tr> <tr> <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td> <td>Modelagem, consultas SQL básicas.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Controle de versão, colaboração em equipe e uso de repositórios remotos.</td> </tr> <tr> <td align="center"><b>RESTful APIs</b></td> <td>Desenvolvimento de serviços web seguindo boas práticas de arquitetura REST.</td> </tr> <tr> <td align="center"><b>HTML/CSS/JavaScript</b></td> <td>Criação de interfaces web responsivas e interativas.</td> </tr> <tr> <td align="center"><b>Diagrama DER</b></td> <td>Modelagem de banco de dados e relacionamento entre entidades.</td> </tr> </table>
+
+<table align="center" border="1" cellpadding="10" width="50%">
+  <tr>
+    <th align="center" width="70%"><b>Habilidade</b></th>
+    <th align="center" width="30%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Java</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Java Spring Framework</b></td>
+    <td align="center"><img src="https://geps.dev/progress/65" alt="65%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Git</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>RESTful APIs</b></td>
+    <td align="center"><img src="https://geps.dev/progress/65" alt="65%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>HTML/CSS/JavaScript</b></td>
+    <td align="center"><img src="https://geps.dev/progress/55" alt="55%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Diagrama DER</b></td>
+    <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
+  </tr>
+</table>
+
 <h2>Soft Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração ativa em projetos e respeito às opiniões dos colegas.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Habilidade para identificar desafios e propor soluções eficazes, principalmente com um produto real, tentando entender a real entrega de valor.</td> </tr> <tr> <td align="center"><b>Gestão do Tempo</b></td> <td>Planejamento eficiente para cumprir prazos e aumentar produtividade, com mais pressão pois tinha um cliente real.</td> </tr> <tr> <td align="center"><b>Aprendizado Contínuo</b></td> <td>Busca constante por atualização e aprimoramento profissional, através de um projeto real.</td> </tr> <tr> <td align="center"><b>Resiliência</b></td> <td>Lidar com os desafios propostos e persistir até encontrar uma solução.</td> </tr> </table>
+
+<table align="center" border="1" cellpadding="10" width="50%">
+  <tr>
+    <th align="center" width="70%"><b>Habilidade</b></th>
+    <th align="center" width="30%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Trabalho em Equipe</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Resolução de Problemas</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gestão do Tempo</b></td>
+    <td align="center"><img src="https://geps.dev/progress/65" alt="65%"></td>
+  </tr>
+    <tr>
+    <td align="center"><b>Comunicação</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td>
+  </tr>
+<tr>
+    <td align="center"><b>Resiliência</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+</table>
+
+<p>
+  Esse projeto marcou meu primeiro contato direto com <b>Java</b> e <b>Spring</b>. Apesar de já conhecer o grupo, tudo era novo para mim, desde a linguagem até o backend profissional.
+  Trabalhamos com um <b>cliente real</b>, o que aumentou a responsabilidade sobre entregas e qualidade. Atuei pela primeira vez como <b>Scrum Master</b>, organizando o time e acompanhando o progresso.
+</p>
+<p>
+  Também participei da criação do <b>Diagrama DER</b>, aprendendo modelagem de dados e sua importância no desenvolvimento.
+  Fazer <b>apresentações externas</b> para clientes foi essencial para meu crescimento, melhorando minha comunicação.
+</p>
+
 
 <h4>3ª API - 2º semestre 2023</h4> 
 <p align="justify">O produto 2Rponto é um sistema que realiza o controle de horas excedentes de colaboradores da empresa 2RP Net. A empresa parceira é conhecida por disponibilizar soluções para análise de informações em tempo real para tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos. As soluções inovadoras e customizadas a diferenciam no mercado, assim como os serviços, permitem o crescimento de negócio e de seus resultados.</p>
@@ -719,10 +841,82 @@ formulario.addEventListener('submit', function (event) {
 <br>
 
 <h2>Hard Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Java</b></td> <td>Desenvolvimento de aplicações utilizando Java para backend.</td> </tr> <tr> <td align="center"><b>Java Spring Framework</b></td> <td>Criação de APIs RESTful, gerenciamento de dependências e injeção de dependências com Spring Boot.</td> </tr> <tr> <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td> <td>Modelagem, consultas SQL básicas.</td> </tr> <tr> <td align="center"><b>Git</b></td> <td>Controle de versão, colaboração em equipe e uso de repositórios remotos.</td> </tr> <tr> <td align="center"><b>RESTful APIs</b></td> <td>Desenvolvimento de serviços web seguindo boas práticas de arquitetura REST.</td> </tr> <tr> <td align="center"><b>Gestão de Backlog</b></td> <td>Criação, priorização e refinamento do backlog do produto, garantindo que os itens estejam bem definidos e alinhados com a estratégia de negócios.</td> </tr> <tr> <td align="center"><b>Definição de Requisitos</b></td> <td>Transformação das necessidades do negócio em requisitos claros e detalhados para a equipe de desenvolvimento.</td> </tr> </table>
+
+<table align="center" border="1" cellpadding="10" width="50%">
+  <tr>
+    <th align="center" width="70%"><b>Habilidade</b></th>
+    <th align="center" width="30%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Java</b></td>
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Java Spring Framework</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de Dados Relacionais (PostgreSQL)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Git</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>RESTful APIs</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gestão de Backlog</b></td>
+    <td align="center"><img src="https://geps.dev/progress/65" alt="65%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Definição de Requisitos</b></td>
+    <td align="center"><img src="https://geps.dev/progress/60" alt="60%"></td>
+  </tr>
+</table>
+
 <h2>Soft Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Descrição</b></th> </tr> <tr> <td align="center"><b>Comunicação Efetiva</b></td> <td>Capacidade de articular ideias com clareza para equipes técnicas, stakeholders e clientes.</td> </tr> <tr> <td align="center"><b>Negociação</b></td> <td>Habilidade para equilibrar interesses de diferentes partes e garantir que as prioridades certas sejam atendidas.</td> </tr> <tr> <td align="center"><b>Tomada de Decisão</b></td> <td>Aptidão para tomar decisões rápidas e bem fundamentadas, alinhadas à visão do produto.</td> </tr> <tr> <td align="center"><b>Visão Estratégica</b></td> <td>Capacidade de entender o mercado, concorrência e objetivos da empresa para guiar o desenvolvimento do produto.</td> </tr> <tr> <td align="center"><b>Empatia</b></td> <td>Compreensão das necessidades dos usuários finais e stakeholders para criar um produto que realmente agregue valor.</td> </tr> <tr> <td align="center"><b>Trabalho em Equipe</b></td> <td>Colaboração eficaz com desenvolvedores, designers e demais áreas da empresa.</td> </tr> <tr> <td align="center"><b>Resolução de Problemas</b></td> <td>Capacidade de identificar desafios e propor soluções inovadoras para superar obstáculos.</td> </tr> </table>
+<table align="center" border="1" cellpadding="10" width="50%">
+  <tr>
+    <th align="center" width="70%"><b>Habilidade</b></th>
+    <th align="center" width="30%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Comunicação Efetiva</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Negociação</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tomada de Decisão</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Visão Estratégica</b></td>
+    <td align="center"><img src="https://geps.dev/progress/65" alt="65%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Empatia</b></td>
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Trabalho em Equipe</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Resolução de Problemas</b></td>
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td>
+  </tr>
+</table>
+
+<p>
+  No meio do projeto, assumi o papel de <b>Product Owner</b> após a saída do anterior. Foi um desafio grande me adaptar e compreender rapidamente as responsabilidades, buscando sempre apoiar o time para manter o foco e garantir as entregas.
+</p>
 
 <h4>4ª API - 1º Semestre 2024</h4> 
 <p align="justify">A Oracle Partner Tracker é uma plataforma inteligente de gerenciamento e análise de dados, capaz de interpretar, organizar e representar os dados do sistema OPN da empresa parceira Oracle. Entre os objetivos principais do projeto, se encontram a modernização do acompanhamento das empresas parceiras Oracle, assim como a visualização de dados de forma inteligente de Tracks e Expertises de cada empresa parceira, para facilitar a identificação de melhorias e de conclusões estratégicas.</p>
@@ -947,73 +1141,100 @@ public interface WorkloadRepository extends JpaRepository <Workload,Long>{
 <br>
 </details>
 
-<br>
-  <h2>Hard skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> 
-  <tr> 
-    <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Descrição</b></th> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Construção de APIs RESTful</b></td> 
-    <td>Desenvolvimento de APIs utilizando <b>Spring Boot</b>, seguindo padrões RESTful para facilitar a comunicação entre sistemas e garantir escalabilidade.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Implementação de CRUDs</b></td> 
-    <td>Criação de operações de <b>CRUD</b> com <b>Spring Boot</b> e <b>JPA/Hibernate</b>, garantindo persistência de dados eficiente e segura.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Documentação de Endpoints</b></td> 
-    <td>Uso de <b>Swagger/OpenAPI</b> para documentação clara e interativa de APIs, facilitando a integração com outros sistemas e desenvolvedores.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Otimização de Consultas SQL</b></td> 
-    <td>Aplicação de boas práticas para <b>otimizar consultas</b> no banco de dados, reduzindo tempo de resposta e melhorando a performance das aplicações.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Interfaces Dinâmicas com Vue.js</b></td> 
-    <td>Desenvolvimento de <b>interfaces interativas</b> e dinâmicas utilizando <b>Vue.js</b>, garantindo melhor experiência do usuário e integração eficiente com APIs.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Design Patterns e Boas Práticas</b></td> 
-    <td>Aplicação de <b>padrões de projeto (Design Patterns)</b> e boas práticas no desenvolvimento para garantir código limpo, modular e reutilizável.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Uso de Lombok</b></td> 
-    <td>Utilização do <b>Lombok</b> para reduzir código boilerplate em classes Java, tornando o desenvolvimento mais produtivo e organizado.</td> 
-  </tr> 
+<h2>Hard skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%">
+  <tr>
+    <th align="center" width="30%"><b>Habilidade</b></th>
+    <th align="center" width="70%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Construção de APIs RESTful</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/85" alt="85%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Implementação de CRUDs</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80" alt="80%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Documentação de Endpoints</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/75" alt="75%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Otimização de Consultas SQL</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/70" alt="70%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Interfaces Dinâmicas com Vue.js</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/50" alt="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design Patterns e Boas Práticas</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/75" alt="75%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Uso de Lombok</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/70" alt="70%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Debugging</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80" alt="80%">
+    </td>
+  </tr>
 </table>
-
-
 
 <h2>Soft skills</h2>
 <br>
-<table align="center" border="1" cellpadding="10" width="100%"> 
-  <tr> 
-    <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Descrição</b></th> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Resolução de Problemas</b></td> 
-    <td>Capacidade de identificar, analisar e solucionar problemas de software de forma eficiente, garantindo a estabilidade e desempenho da aplicação.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Diagnóstico de Erros</b></td> 
-    <td>Uso de <b>logs do Spring Boot</b> para identificar e corrigir erros, analisando mensagens de erro e rastreando a origem dos problemas.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Debugging</b></td> 
-    <td>Utilização das ferramentas de <b>debugging</b> no <b>IntelliJ</b> e <b>VS Code</b> para inspecionar variáveis, analisar a execução do código e corrigir falhas.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Gestão de Tempo e Organização</b></td> 
-    <td>Planejamento eficaz das tarefas, priorizando demandas e garantindo a entrega dentro dos prazos estabelecidos.</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><b>Planejamento de Tarefas</b></td> 
-    <td>Organização das atividades dentro dos <b>sprints</b>, garantindo alinhamento com a equipe e cumprimento dos objetivos do projeto.</td> 
-  </tr> 
+<table align="center" border="1" cellpadding="10" width="100%">
+  <tr>
+    <th align="center" width="30%"><b>Habilidade</b></th>
+    <th align="center" width="70%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Resolução de Problemas</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/85" alt="85%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Diagnóstico de Erros</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/75" alt="75%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gestão de Tempo e Organização</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80" alt="80%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Planejamento</b></td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80" alt="80%">
+    </td>
+  </tr>
 </table>
+
+<p style="max-width:600px; margin: 20px auto;">
+  Esse projeto apresentou uma pressão técnica maior devido à sua complexidade, o que foi um desafio para mim, especialmente por não ter experiência prévia com <b>Vue.js</b>. 
+  Foi um processo de aprendizado intenso para lidar com o frontend e integrar com o backend. 
+  O uso constante de <b>debugging</b> e análise de logs foi fundamental para superar obstáculos e garantir a qualidade da entrega.
+</p>
 
 
 <h4>5ª API - 2º Semestre 2024</h4> 
@@ -1256,68 +1477,65 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 <table align="center" border="1" cellpadding="10" width="100%"> 
   <tr> 
     <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Descrição</b></th> 
+    <th align="center" width="70%"><b>Nível</b></th> 
   </tr> 
   <tr> 
     <td align="center"><b>Desenvolvimento de APIs RESTful</b></td> 
-    <td>Implementação de APIs com <b>Spring Boot</b>, seguindo padrões RESTful para integrar e disponibilizar dados de recrutamento e seleção de forma eficiente.</td> 
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Integração com Frontend Vue.js</b></td> 
-    <td>Desenvolvimento de endpoints personalizados e integração com componentes dinâmicos do <b>Vue.js</b> para exibição de dados em dashboards interativos.</td> 
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Documentação com Swagger</b></td> 
-    <td>Documentação interativa das APIs usando <b>Swagger/OpenAPI</b>, facilitando a integração entre sistemas e a compreensão dos serviços expostos.</td> 
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Integração Contínua (CI)</b></td> 
-    <td>Configuração de pipelines de <b>Integração Contínua (CI)</b> com validação de código e testes automatizados a cada push em branches específicas, garantindo qualidade e padronização.</td> 
+    <td align="center"><img src="https://geps.dev/progress/70" alt="90%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Conceitos de DevOps</b></td> 
-    <td>Aplicação de práticas <b>DevOps</b> no fluxo de desenvolvimento, com automação de builds, testes e integração entre ambientes (BYTE, DEV, TESTE e MAIN).</td> 
+    <td align="center"><img src="https://geps.dev/progress/65" alt="85%"></td> 
   </tr>
   <tr> 
     <td align="center"><b>Modelagem de Dados Analíticos</b></td> 
-    <td>Construção de esquemas dimensionais para suporte à visualização analítica de dados de RH, possibilitando análise OLAP e relatórios gerenciais personalizados.</td> 
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>SQL e Spark para ETL</b></td> 
-    <td>Manipulação de dados com <b>SQL</b> e uso do <b>Apache Spark</b> para processamentos ETL, integrando diferentes fontes de dados para o Data Warehouse.</td> 
+    <td align="center"><img src="https://geps.dev/progress/70" alt="70%"></td> 
   </tr>
 </table>
-
-
 
 <h2>Soft skills</h2>
 <table align="center" border="1" cellpadding="10" width="100%"> 
   <tr> 
     <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Descrição</b></th> 
+    <th align="center" width="70%"><b>Nível</b></th> 
   </tr> 
   <tr> 
     <td align="center"><b>Resolução de Problemas</b></td> 
-    <td>Capacidade de analisar e solucionar desafios técnicos, como inconsistência de dados, falhas em integrações e lentidão nas visualizações.</td> 
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Diagnóstico e Depuração</b></td> 
-    <td>Habilidade no uso de <b>logs do Spring Boot</b>, além de ferramentas de <b>debug</b> para identificar falhas, validar fluxo de dados e garantir estabilidade da aplicação.</td> 
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Colaboração em Equipe</b></td> 
-    <td>Trabalho conjunto com colegas na definição do backlog, integração de código e revisão de PRs, promovendo um ambiente de desenvolvimento colaborativo.</td> 
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Gestão Ágil de Tarefas</b></td> 
-    <td>Organização do desenvolvimento por meio de <b>sprints</b>, com foco na priorização de entregas e alinhamento com os objetivos da equipe e do cliente.</td> 
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> 
   </tr> 
   <tr> 
     <td align="center"><b>Responsabilidade Técnica</b></td> 
-    <td>Comprometimento com a qualidade das entregas e com a manutenção da integridade dos ambientes de desenvolvimento e produção.</td> 
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> 
   </tr> 
 </table>
 
-
-
+<p>Foi desafiador entender e implementar práticas de DevOps, além de cumprir requisitos mais complexos dentro do projeto. Outro desafio importante foi o uso de Data Warehouse e processos ETL para integrar e analisar os dados de forma eficaz. A integração do time facilitou a resolução de problemas de forma mais eficaz utilizando conceitos ágeis adquiridos anteriormente.</p>
 
