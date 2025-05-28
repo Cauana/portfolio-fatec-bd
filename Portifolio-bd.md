@@ -1537,5 +1537,281 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
   </tr> 
 </table>
 
-<p>Foi desafiador entender e implementar práticas de DevOps, além de cumprir requisitos mais complexos dentro do projeto. Outro desafio importante foi o uso de Data Warehouse e processos ETL para integrar e analisar os dados de forma eficaz. A integração do time facilitou a resolução de problemas de forma mais eficaz utilizando conceitos ágeis adquiridos anteriormente.</p>
+<p>Foi desafiador entender e implementar práticas de DevOps, além de cumprir requisitos mais complexos dentro do projeto, como a prática de integração continua. Outro desafio importante foi o uso de Data Warehouse e processos ETL para integrar e analisar os dados de forma eficaz. A integração do time facilitou a resolução de problemas de forma mais eficaz utilizando conceitos ágeis adquiridos anteriormente.</p>
 
+
+<h4>6ª API - 1º Semestre 2025</h4> 
+<p align="justify">O problema apresentado pela empresa Kersys foi relacionado ao meio ambiente e o processo de reflorestamento de uma área. Assim, atuamos como facilitadores no processo de reflorestamento, desde a visualização da área do projeto em um mapa, até nas próprias estratégias de reflorestamento e no acompanhamento do processo como um todo.
+
+A solução proposta pela equipe é desenvolver uma plataforma web, que permite o cadastro de uma área geográfica, e a partir dela, fazer um cruzamento com nossa base de dados e nossos modelos de inteligência artificial. O resultado desse cruzamento será um acompanhamento em tempo real e estratégias personalizadas para garantir a minimização de riscos e a maior taxa de sucesso possível para o projeto de reflorestamento. Além de insights valiosos como:
+
+Métricas de saúde florestal da área. (ex. oxigenação, hidratação e tempo de vida do plantio).
+
+Identificação de riscos e cuidados a ser tomados a partir de dados geográficos e climáticos da área.
+
+Indicação de espécies de plantas para o plantio, baseados na época do ano e na longevidade desejada.
+
+Geração de relatórios para acompanhamento retroativo do processo de reflorestamento.
+
+<p align="center"><img src="https://github.com/user-attachments/assets/017d32d7-4dab-4618-9ef5-a9102f8d9c6f" width="70%"></p>
+
+
+    
+[GIT](https://github.com/bytelabss/ByteLabss-API5sem)
+
+<summary><b>Tecnologias Utilizadas</b></summary>
+<br> 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+</ul>
+<b>Contribuições Pessoais</b>
+</summary><br>
+<p align="justify">Atuei como Product Owner (P.O.) e Desenvolvedora no projeto, mantendo contato direto com o cliente para entender suas necessidades e organizar o backlog da equipe, seguindo o processo definido pelo D.O.R (Definition of Ready) acordado coletivamente. Além disso, colaborei com a equipe para assegurar a correta implementação dos princípios da LGPD no sistema. Também participei do desenvolvimento de funcionalidades de inteligência artificial, como predições das melhores espécies para plantio em áreas específicas, considerando suas características e particularidades.</p>
+ 
+
+<details><Summary>Definition of Ready (D.O.R)</Summary> 
+
+Critérios gerais:
+- A user story foi detalhada e compreendida por todos os envolvidos.
+- Os critérios de aceitação estão claramente definidos.
+- O backlog contém todas as informações necessárias.
+- O design básico da interface com a ideia principal.
+- O ambiente de desenvolvimento está preparado para implementação.
+
+
+</details>
+
+<details><Summary>Backlog do Produto</Summary>
+
+<body>
+        <div align="center">
+                <table>
+                        <thead>
+                                <th>ID</th>
+                                <th>Requisito <b> funcional</b></th>
+                                <th>User Story</th>
+                                <th>Sprint</th>
+                                <th>Jira Link</th>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                        <td>US01</td>
+                                        <td align="center">2</td>
+                                        <td align="justify">Como engenheiro ambiental, quero cadastrar, editar e visualizar novas áreas reflorestadas com informações detalhadas, para que o sistema possa monitorá-las corretamente.</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-1">LABS-1</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US02</td>
+                                        <td align="center">2</td>
+                                        <td align="justify">Como produtor, quero visualizar minhas áreas de plantio atualizadas em um mapa interativo, para acompanhar a distribuição geográfica e evolução.</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-3">LABS-3</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US03</td>
+                                        <td align="center">-</td>
+                                        <td align="justify">Como administrador, quero definir permissões de acesso para diferentes usuários (engenheiro ambiental e produtores), para garantir segurança e conformidade com a LGPD.</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-4">LABS-4</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US04</td>
+                                        <td align="center">3</td>
+                                        <td align="justify">Como engenheiro ambiental, quero ter acesso a uma base de dados confiável sobre reflorestamento do Brasil com dados sobre características do solo e da área, para compreender as necessidades e possibilidades de um terreno para reflorestamento.</td>
+                                        <td align="center">1</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-2">LABS-2</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US05</td>
+                                        <td align="center">-</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero que as ações do sistema estejam em conformidade com a LGPD.</td>
+                                        <td align="center">-</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-26">LABS-26</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US06</td>
+                                        <td align="center">1</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero receber recomendações sobre as melhores espécies para cada área, considerando as condições climáticas e características do solo, para garantir um reflorestamento eficiente.</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-31">LABS-31</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US07</td>
+                                        <td align="center">4</td>
+                                        <td align="justify">Como um engenheiro ambiental, quero identificar áreas sob risco de condições ambientais adversas, para tomar medidas preventivas.</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-32">LABS-32</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US08</td>
+                                        <td align="center">1</td>
+                                        <td align="justify">Como um produtor, quero visualizar diferentes estratégias de plantio, para avaliar seus impactos antes de implementar mudanças.</td>
+                                        <td align="center">2</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-33">LABS-33</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US09</td>
+                                        <td align="center">4</td>
+                                        <td align="justify">Como um analista ambiental, quero visualizar indicadores-chave de reflorestamento de áreas sob riscos, para facilitar a tomada de decisão.</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-35">LABS-35</a></td>
+                                </tr>
+                                <tr>
+                                        <td>US10</td>
+                                        <td align="center">4</td>
+                                        <td align="justify">Como um analista ambiental, quero gerar relatórios sobre o reflorestamento.</td>
+                                        <td align="center">3</td>
+                                        <td align="center"><a href="https://bytelabss.atlassian.net/browse/LABS-36">LABS-36</a></td>
+                                </tr>
+                        </tbody>
+                </table>
+        </div>
+</body>
+</details>
+
+<details><Summary><b>Modelo de Classificação Área - Melhor tipo de espécie</b></Summary>
+
+<code><pre>
+from flask import Blueprint, request, jsonify
+from marshmallow import ValidationError
+from ..database import Session
+import pandas as pd
+import numpy as np
+import os
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.cluster import KMeans
+import joblib
+
+bp = Blueprint("models", __name__)
+
+@bp.route('/treinar', methods=['POST'])
+def treinar_kmeans():
+    try:
+        os.makedirs('models', exist_ok=True)
+
+        df = pd.read_csv("dataforest/data/dados_amostragem.csv")
+
+        X = df[["temperatura", "precipitacao", "altitude", "declividade", "exposicao",
+                "distancia_vertical_drenagem", "densidade_drenagem", "cobertura_arborea"]]
+
+        imputer = SimpleImputer(strategy="mean")
+        X_imputed = pd.DataFrame(imputer.fit_transform(X), columns=X.columns)
+
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X_imputed)
+
+        inertia = []
+        for i in range(1, 11):
+            kmeans = KMeans(n_clusters=i, random_state=42)
+            kmeans.fit(X_scaled)
+            inertia.append(kmeans.inertia_)
+
+        kmeans = KMeans(n_clusters=4, random_state=42)
+        kmeans.fit(X_scaled)
+
+        df['cluster'] = kmeans.labels_
+
+        centroids = kmeans.cluster_centers_
+
+        joblib.dump(kmeans, 'models/modelo_kmeans.pkl')
+        joblib.dump(scaler, 'models/scaler.pkl')
+        joblib.dump(imputer, 'models/imputer.pkl')
+        joblib.dump(centroids, 'models/centroids.pkl')
+
+        print("✅ Modelos salvos com sucesso!")
+
+        df_especies = pd.read_csv("dataforest/data/areasxespecies.csv")
+
+        X = df_especies.drop("target", axis=1)
+
+        X_imputado = imputer.transform(X) 
+
+        X_normalizado = scaler.transform(X_imputado)  
+
+        clusters = kmeans.predict(X_normalizado)
+
+        df_especies["cluster"] = clusters
+
+        encoder = LabelEncoder()
+        df_especies["target_encoded"] = encoder.fit_transform(df_especies["target"])
+        joblib.dump(encoder, 'models/encoder.pkl')
+
+        cluster_species = {}
+        for cluster in df_especies['cluster'].unique():
+            species_in_cluster = df_especies[df_especies['cluster'] == cluster]
+            most_common_species = species_in_cluster['target_encoded'].mode()[0]
+            species_name = encoder.inverse_transform([most_common_species])[0]
+            cluster_species[int(cluster)] = species_name
+        
+        df_especies.to_csv("models/df_especies_clusters.csv", index=False)
+
+        return jsonify({
+            "mensagem": "Modelo treinado com sucesso!",
+            "clusters": cluster_species
+        })
+
+    except Exception as e:
+        return jsonify({"erro": str(e)}), 500
+    
+
+@bp.route('/classificar', methods=['POST'])
+def classificar_area():
+    try:
+
+        kmeans = joblib.load('models/modelo_kmeans.pkl')
+        scaler = joblib.load('models/scaler.pkl')
+        imputer = joblib.load('models/imputer.pkl')
+        encoder = joblib.load('models/encoder.pkl')
+
+
+        df_especies = pd.read_csv("models/df_especies_clusters.csv")
+        
+        # Aqui é importante adicionar a regra que classifica todas as áreas já cadastradas após implementação da Lari
+        # A ideia é - a lari coloca no banco a area já com essas caracteristicas do modelo
+        # E depois a gente roda o classificador para todas essas áreas
+        # Retorna essa recomendação na página 
+
+        nova_area = request.get_json()  
+
+        nova_area_df = pd.DataFrame([nova_area])
+
+        X_imputed = imputer.transform(nova_area_df)
+
+        X_normalizado = scaler.transform(X_imputed)
+
+        cluster = kmeans.predict(X_normalizado)[0]
+
+        species = df_especies[df_especies['cluster'] == cluster]['target'].mode()[0]
+
+        cluster = int(cluster) 
+        response = {
+            "cluster": cluster,
+            "species": species,
+            "mensagem": "Área classificada com sucesso!"
+        }
+
+        return jsonify(response)
+
+    except Exception as e:
+        return jsonify({"erro": str(e)}), 500
+
+</pre></code>
+</details>
+
+
+<h2>Hard skills</h2> <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Nível</b></th> </tr> <tr> <td align="center"><b>Desenvolvimento de APIs RESTful (Python Flask)</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Integração com Frontend React + TypeScript</b></td> <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> </tr> <tr> <td align="center"><b>Implementação de Modelos de IA (scikit-learn, pandas)</b></td> <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td> </tr> <tr> <td align="center"><b>Modelagem e Manipulação de Dados (MongoDB / Postgres)</b></td> <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> </tr> <tr> <td align="center"><b>Boas Práticas de LGPD em Desenvolvimento</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Gestão de Produto (Backlog, D.O.R, Jira)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Versionamento de Código (Git e GitHub)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> </table>
+<h2>Soft skills</h2> <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Nível</b></th> </tr> <tr> <td align="center"><b>Visão de Produto e Foco no Cliente</b></td> <td align="center"><img src="https://geps.dev/progress/95" alt="95%"></td> </tr> <tr> <td align="center"><b>Tomada de Decisão Estratégica</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Gestão Ágil de Projetos (Scrum, D.O.R)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Resolução de Problemas Complexos</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Comunicação com Stakeholders e Equipe</b></td> <td align="center"><img src="https://geps.dev/progress/95" alt="95%"></td> </tr> <tr> <td align="center"><b>Trabalho em Equipe e Colaboração</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> </table>
+<p>O maior desafio do projeto foi alinhar a visão do produto com as reais necessidades do cliente e dos agricultores, enquanto gerenciávamos a complexidade técnica de implementar modelos de inteligência artificial que realmente gerassem valor. A aplicação correta dos princípios da LGPD também foi um ponto crítico, garantindo a segurança dos dados sensíveis dos usuários. Este projeto foi uma oportunidade de crescimento tanto nas habilidades técnicas quanto nas competências de gestão de produto e liderança ágil.</p>
