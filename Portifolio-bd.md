@@ -1497,7 +1497,7 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
   </tr> 
   <tr> 
     <td align="center"><b>Conceitos de DevOps</b></td> 
-    <td align="center"><img src="https://geps.dev/progress/65" alt="85%"></td> 
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> 
   </tr>
   <tr> 
     <td align="center"><b>Modelagem de Dados Analíticos</b></td> 
