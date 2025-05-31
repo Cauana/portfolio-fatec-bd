@@ -13,7 +13,7 @@
 
 <p align="justify">Possuo experiência na área de Tecnologia, tive a oportunidade de realizar meu estágio na General Electric (GE Taubaté) por um ano, onde trabalhei com o desenvolvimento de um projeto de melhoria das traduções técnicas com termos de Engenharia utilizando VBA e Python. Além disso, atuei realizando tratamento de dados, dashboards para entendimento de listas de documentos e principalmente desenvolvimento de automações de processos.</p>
 
-<p align="justify">Atualmente sou Assessora de Tecnologia do Banco do Brasil (BB), onde atuo como desenvolvedora Backend Java, em projetos que envolvem mensageria e APIs que recebem, processam e enviam transações.</p>
+<p align="justify">Atualmente sou Assessora de Tecnologia do Banco do Brasil (BB), onde atuo como desenvolvedora Backend Java, em microsserviços que envolvem mensageria e APIs que recebem, processam e enviam transações.</p>
 
 <p align="center">• <a href="https://www.git.com/Cauana">LinkedIn</a> • <a href="https://www.linkedin.com/in/cauanadias/">GitHub</a> •</p>
 
