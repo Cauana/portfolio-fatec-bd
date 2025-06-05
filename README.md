@@ -1512,8 +1512,8 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 <h2>Soft skills</h2>
 <table align="center" border="1" cellpadding="10" width="100%"> 
   <tr> 
-    <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Nível</b></th> 
+    <th align="center" width="60%"><b>Habilidade</b></th> 
+    <th align="center" width="50%"><b>Nível</b></th> 
   </tr> 
   <tr> 
     <td align="center"><b>Resolução de Problemas</b></td> 
@@ -1830,7 +1830,7 @@ def classificar_area():
   </tr>
   <tr>
     <td align="center"><b>Modelagem e Manipulação de Dados (MongoDB / Postgres)</b></td>
-    <td align="center"><img src="https://geps.dev/progress/80" alt="80%" width="150"></td>
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%" width="100"></td>
   </tr>
   <tr>
     <td align="center"><b>Boas Práticas de LGPD em Desenvolvimento</b></td>
