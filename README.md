@@ -1810,6 +1810,72 @@ def classificar_area():
 </details>
 
 
-<h2>Hard skills</h2> <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Nível</b></th> </tr> <tr> <td align="center"><b>Desenvolvimento de APIs RESTful (Python Flask)</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Integração com Frontend React + TypeScript</b></td> <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> </tr> <tr> <td align="center"><b>Implementação de Modelos de IA (scikit-learn, pandas)</b></td> <td align="center"><img src="https://geps.dev/progress/75" alt="75%"></td> </tr> <tr> <td align="center"><b>Modelagem e Manipulação de Dados (MongoDB / Postgres)</b></td> <td align="center"><img src="https://geps.dev/progress/80" alt="80%"></td> </tr> <tr> <td align="center"><b>Boas Práticas de LGPD em Desenvolvimento</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Gestão de Produto (Backlog, D.O.R, Jira)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Versionamento de Código (Git e GitHub)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> </table>
-<h2>Soft skills</h2> <table align="center" border="1" cellpadding="10" width="100%"> <tr> <th align="center" width="30%"><b>Habilidade</b></th> <th align="center" width="70%"><b>Nível</b></th> </tr> <tr> <td align="center"><b>Visão de Produto e Foco no Cliente</b></td> <td align="center"><img src="https://geps.dev/progress/95" alt="95%"></td> </tr> <tr> <td align="center"><b>Tomada de Decisão Estratégica</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Gestão Ágil de Projetos (Scrum, D.O.R)</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> <tr> <td align="center"><b>Resolução de Problemas Complexos</b></td> <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> </tr> <tr> <td align="center"><b>Comunicação com Stakeholders e Equipe</b></td> <td align="center"><img src="https://geps.dev/progress/95" alt="95%"></td> </tr> <tr> <td align="center"><b>Trabalho em Equipe e Colaboração</b></td> <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> </tr> </table>
+<h2>Hard Skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%">
+  <tr>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="40%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Desenvolvimento de APIs RESTful (Python Flask)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Integração com Frontend React + TypeScript</b></td>
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Implementação de Modelos de IA (scikit-learn, pandas)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/75" alt="75%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Modelagem e Manipulação de Dados (MongoDB / Postgres)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/80" alt="80%" width="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Boas Práticas de LGPD em Desenvolvimento</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gestão de Produto (Backlog, D.O.R, Jira)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Versionamento de Código (Git e GitHub)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%" width="100"></td>
+  </tr>
+</table>
+
+<h2>Soft Skills</h2>
+<table align="center" border="1" cellpadding="10" width="100%">
+  <tr>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="40%"><b>Nível</b></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Visão de Produto e Foco no Cliente</b></td>
+    <td align="center"><img src="https://geps.dev/progress/95" alt="95%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tomada de Decisão Estratégica</b></td>
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gestão Ágil de Projetos (Scrum, D.O.R)</b></td>
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Resolução de Problemas Complexos</b></td>
+    <td align="center"><img src="https://geps.dev/progress/85" alt="85%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Comunicação com Stakeholders e Equipe</b></td>
+    <td align="center"><img src="https://geps.dev/progress/95" alt="95%" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Trabalho em Equipe e Colaboração</b></td>
+    <td align="center"><img src="https://geps.dev/progress/90" alt="90%" width="100"></td>
+  </tr>
+</table>
+
 <p>O maior desafio do projeto foi alinhar a visão do produto com as reais necessidades do cliente e dos agricultores, enquanto gerenciávamos a complexidade técnica de implementar modelos de inteligência artificial que realmente gerassem valor. A aplicação correta dos princípios da LGPD também foi um ponto crítico, garantindo a segurança dos dados sensíveis dos usuários. Este projeto foi uma oportunidade de crescimento tanto nas habilidades técnicas quanto nas competências de gestão de produto e liderança ágil.</p>
