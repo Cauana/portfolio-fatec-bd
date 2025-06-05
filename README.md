@@ -289,8 +289,8 @@
 
 <table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="30%"><b>Habilidade</b></th>
-    <th align="center" width="70%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Python</b></td>
@@ -316,10 +316,10 @@
 
 <h2>Soft Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="60%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center"><b>Habilidade</b></th>
-    <th align="center"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Comunicação Efetiva</b></td>
@@ -473,10 +473,10 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 
 <h2>Hard Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="50%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="70%"><b>Habilidade</b></th>
-    <th align="center" width="30%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Java</b></td>
@@ -510,10 +510,10 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 
 <h2>Soft Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="50%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="70%"><b>Habilidade</b></th>
-    <th align="center" width="30%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Trabalho em Equipe</b></td>
@@ -842,10 +842,10 @@ formulario.addEventListener('submit', function (event) {
 
 <h2>Hard Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="50%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="70%"><b>Habilidade</b></th>
-    <th align="center" width="30%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Java</b></td>
@@ -879,10 +879,10 @@ formulario.addEventListener('submit', function (event) {
 
 <h2>Soft Skills</h2>
 
-<table align="center" border="1" cellpadding="10" width="50%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="70%"><b>Habilidade</b></th>
-    <th align="center" width="30%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Comunicação Efetiva</b></td>
@@ -1142,10 +1142,10 @@ public interface WorkloadRepository extends JpaRepository <Workload,Long>{
 </details>
 
 <h2>Hard skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="30%"><b>Habilidade</b></th>
-    <th align="center" width="70%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Construção de APIs RESTful</b></td>
@@ -1199,10 +1199,10 @@ public interface WorkloadRepository extends JpaRepository <Workload,Long>{
 
 <h2>Soft skills</h2>
 <br>
-<table align="center" border="1" cellpadding="10" width="100%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
-    <th align="center" width="30%"><b>Habilidade</b></th>
-    <th align="center" width="70%"><b>Nível</b></th>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Resolução de Problemas</b></td>
@@ -1474,11 +1474,11 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 </details>
 
 <h2>Hard skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> 
-  <tr> 
-    <th align="center" width="30%"><b>Habilidade</b></th> 
-    <th align="center" width="70%"><b>Nível</b></th> 
-  </tr> 
+<table align="center" border="1" cellpadding="10" width="70%">
+  <tr>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
+  </tr>
   <tr> 
     <td align="center"><b>Desenvolvimento de APIs RESTful</b></td> 
     <td align="center"><img src="https://geps.dev/progress/90" alt="90%"></td> 
@@ -1510,11 +1510,11 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 </table>
 
 <h2>Soft skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%"> 
-  <tr> 
-    <th align="center" width="60%"><b>Habilidade</b></th> 
-    <th align="center" width="50%"><b>Nível</b></th> 
-  </tr> 
+<table align="center" border="1" cellpadding="10" width="70%">
+  <tr>
+    <th align="center" width="60%"><b>Habilidade</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
+  </tr>
   <tr> 
     <td align="center"><b>Resolução de Problemas</b></td> 
     <td align="center"><img src="https://geps.dev/progress/85" alt="85%"></td> 
@@ -1811,10 +1811,10 @@ def classificar_area():
 
 
 <h2>Hard Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
     <th align="center" width="60%"><b>Habilidade</b></th>
-    <th align="center" width="40%"><b>Nível</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Desenvolvimento de APIs RESTful (Python Flask)</b></td>
@@ -1847,10 +1847,10 @@ def classificar_area():
 </table>
 
 <h2>Soft Skills</h2>
-<table align="center" border="1" cellpadding="10" width="100%">
+<table align="center" border="1" cellpadding="10" width="70%">
   <tr>
     <th align="center" width="60%"><b>Habilidade</b></th>
-    <th align="center" width="40%"><b>Nível</b></th>
+    <th align="center" width="50%"><b>Nível</b></th>
   </tr>
   <tr>
     <td align="center"><b>Visão de Produto e Foco no Cliente</b></td>
