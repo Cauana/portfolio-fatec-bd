@@ -15,7 +15,7 @@
 
 <p align="justify">Atualmente sou Assessora de Tecnologia do Banco do Brasil (BB), onde atuo como desenvolvedora Backend Java, em microsserviços que envolvem mensageria e APIs que recebem, processam e enviam transações.</p>
 
-<p align="center">• <a href="https://www.git.com/Cauana">LinkedIn</a> • <a href="https://www.linkedin.com/in/cauanadias/">GitHub</a> •</p>
+<p align="center">• <a href="https://www.github.com/Cauana">LinkedIn</a> • <a href="https://www.linkedin.com/in/cauanadias/">GitHub</a> •</p>
 
 <h4>Meus Projetos</h4>
 
@@ -25,7 +25,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/5063a5ed-99b7-4fff-ba57-8ea1fe8242ba" width="70%"></p>
 
     
-[GIT]([https://github.com/oJavaLi/doisrponto?tab=readme-ov-file](https://github.com/Pythonators/API_semestre1_pythonators?tab=readme-ov-file))
+<a href="https://github.com/Pythonators/API_semestre1_pythonators?tab=readme-ov-file">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
@@ -349,8 +349,8 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/47537933-29eb-4be1-9125-8afe2555c88a" width="70%"></p>
 
-    
-[GIT](https://github.com/oJavaLi/doisrponto?tab=readme-ov-file)
+
+<a href="https://github.com/oJavaLi/API-2-Semestre">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
@@ -554,7 +554,7 @@ Além disso, atuei na criação do Diagrama Entidade Relacionamento - DER, e na 
 
 <p align="justify">Anteriormente, a empresa enfrentava desafios na gestão de horas, dependendo de várias planilhas, o que limitava a disponibilidade, flexibilidade e controle necessários. Em resposta, desenvolvemos uma aplicação que centraliza o controle de horas excedentes, distinguindo entre horas extras e sobreavisos. Essa aplicação também oferece recursos de aprovação ou reprovação das horas pelo gestor da equipe e pelo departamento de Recursos Humanos. Além disso, inclui painéis de controle para os colaboradores visualizarem suas horas aprovadas ou reprovadas, enquanto gestores e RH podem monitorar as pendências de aprovação de seus respectivos usuários. </p>
     
-[GIT](https://github.com/oJavaLi/doisrponto?tab=readme-ov-file)
+<a href="https://github.com/oJavaLi/doisrponto?tab=readme-ov-file">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br>
