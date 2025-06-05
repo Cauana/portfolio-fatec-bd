@@ -924,7 +924,7 @@ formulario.addEventListener('submit', function (event) {
 <p align="center"><img src="https://github.com/user-attachments/assets/c6aad513-edad-42ed-bcfd-45cb2d8e1e72" width="70%"></p>
 
     
-[GIT](https://github.com/oJavaLi/doisrponto?tab=readme-ov-file)
+<a href="https://github.com/codecatss/API-BD4">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br> 
@@ -1253,7 +1253,7 @@ O projeto de DataViz do ByteLabs é uma plataforma focada na análise de dados d
 <p align="center"><img src="https://github.com/user-attachments/assets/c941a1f0-442e-4978-9dd7-6b577989e0ca" width="70%"></p>
 
     
-[GIT](https://github.com/bytelabss/ByteLabss-API5sem)
+<a href="https://github.com/bytelabss/ByteLabss-API5sem">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br> 
@@ -1555,9 +1555,7 @@ Geração de relatórios para acompanhamento retroativo do processo de reflorest
 
 <p align="center"><img src="https://github.com/user-attachments/assets/017d32d7-4dab-4618-9ef5-a9102f8d9c6f" width="70%"></p>
 
-
-    
-[GIT](https://github.com/bytelabss/ByteLabss-API5sem)
+<a href="https://github.com/bytelabss/ByteLabs-API6Sem">GitHub do projeto</a>
 
 <summary><b>Tecnologias Utilizadas</b></summary>
 <br> 
